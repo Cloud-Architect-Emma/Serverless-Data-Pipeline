@@ -54,8 +54,8 @@ The architecture diagram below shows the flow of data from ingestion in S3 to pr
    
 
 2. **DynamoDB Table** – View stored records  
-   ![DynamoDB Table](project-screenshot/DynamoDB%20Explore%20table%20items.JPG)
-   
+![DynamoDB Table](project-screenshot/DynamoDB%20Explore%20table%20items.JPG)
+
 ---
 
 3. **Lambda Function & Trigger** – Code + event trigger  

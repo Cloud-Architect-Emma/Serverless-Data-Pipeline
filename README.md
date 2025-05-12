@@ -50,19 +50,19 @@ The architecture diagram below shows the flow of data from ingestion in S3 to pr
 ## Deployment Screenshots
 
 1. **CloudWatch Logs** – Logs from Lambda  
-   ![Cloudwatch Logs](project-screenshot/screenshots/Cloudwatch_logs.JPG)
+   ![Cloudwatch Logs](project-screenshot/Cloudwatch%20logs.JPG)
 
 2. **DynamoDB Table** – View stored records  
-   ![DynamoDB Table](project-screenshot/screenshots/DynamoDB_Explore_table_items.JPG)
+   ![DynamoDB Table](project-screenshot/DynamoDB%20Explore%20table%20items.JPG)
 
 3. **Lambda Function & Trigger** – Code + event trigger  
-   ![Lambda Function & Trigger](project-screenshot/screenshots/Lambda_function_and_trigger.JPG)
+   ![Lambda Function & Trigger](project-screenshot/Lambda%20function%20%26%20trigger.JPG)
 
 4. **S3 Bucket Permissions** – IAM roles and bucket access  
-   ![S3 Permission](project-screenshot/screenshots/S3_Permission..JPG)
+   ![S3 Permission](project-screenshot/S3%20Permission.JPG)
 
 5. **S3 Uploads** – Sample input files  
-   ![S3 Uploads](project-screenshot/screenshots/S3_uploads.JPG)
+   ![S3 Uploads](project-screenshot/S3%20uploads.JPG)
 
 ## Benefits
 - **Scalable**: Handles any amount of data with zero infrastructure management

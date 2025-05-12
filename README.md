@@ -53,6 +53,7 @@ The architecture diagram below shows the flow of data from ingestion in S3 to pr
    ![Cloudwatch Logs](project-screenshot/Cloudwatch%20logs.JPG)
    
 ---
+
 2. **DynamoDB Table** – View stored records  
    ![DynamoDB Table](project-screenshot/DynamoDB%20Explore%20table%20items.JPG)
 ---

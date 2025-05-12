@@ -6,7 +6,7 @@ This project demonstrates how to build a **serverless ETL (Extract, Transform, L
 ## Architecture Diagram
 The architecture diagram below shows the flow of data from ingestion in S3 to processing by Lambda and final storage in DynamoDB. CloudWatch is used for logging and monitoring.
 
-![Architecture](.project-architecture/Architecture.JPG)
+!![Architecture](project-architecture/Architecture.jpg)
 
 ## Components & Workflow
 

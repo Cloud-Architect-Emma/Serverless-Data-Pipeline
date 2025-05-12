@@ -6,7 +6,7 @@ This project demonstrates how to build a **serverless ETL (Extract, Transform, L
 ## Architecture Diagram
 The architecture diagram below shows the flow of data from ingestion in S3 to processing by Lambda and final storage in DynamoDB. CloudWatch is used for logging and monitoring.
 
-!!![Architecture](project-architecture/Architecture.JPG)
+![Architecture](project-architecture/Architecture.JPG)
 
 ## Components & Workflow
 
@@ -50,19 +50,19 @@ The architecture diagram below shows the flow of data from ingestion in S3 to pr
 ## Deployment Screenshots
 
 1. **CloudWatch Logs** – Logs from Lambda  
-   ![Cloudwatch Logs](.project-screenshot/screenshots/Cloudwatch_logs.JPG)
+   ![Cloudwatch Logs](project-screenshot/screenshots/Cloudwatch_logs.JPG)
 
 2. **DynamoDB Table** – View stored records  
-   ![DynamoDB Table](.project-screenshot/screenshots/DynamoDB_Explore_table_items.JPG)
+   ![DynamoDB Table](project-screenshot/screenshots/DynamoDB_Explore_table_items.JPG)
 
 3. **Lambda Function & Trigger** – Code + event trigger  
-   ![Lambda Function & Trigger](.project-screenshot/screenshots/Lambda_function_and_trigger.JPG)
+   ![Lambda Function & Trigger](project-screenshot/screenshots/Lambda_function_and_trigger.JPG)
 
 4. **S3 Bucket Permissions** – IAM roles and bucket access  
-   ![S3 Permission](./screenshots/S3_Permission..JPG)
+   ![S3 Permission](project-screenshot/screenshots/S3_Permission..JPG)
 
 5. **S3 Uploads** – Sample input files  
-   ![S3 Uploads](.project-screenshot/screenshots/S3_uploads.JPG)
+   ![S3 Uploads](project-screenshot/screenshots/S3_uploads.JPG)
 
 ## Benefits
 - **Scalable**: Handles any amount of data with zero infrastructure management

@@ -51,7 +51,7 @@ The architecture diagram below shows the flow of data from ingestion in S3 to pr
 
 1. **CloudWatch Logs** – Logs from Lambda  
    ![DynamoDB Table](project-screenshot/DynamoDB%20%20Explore%20table%20items.JPG)
----
+**---
    
 2. **DynamoDB Table** – View stored records  
    ![DynamoDB Table](project-screenshot/DynamoDB%20Explore%20table%20items.JPG)
